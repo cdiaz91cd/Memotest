@@ -1,9 +1,0 @@
-numero aleatorios
-
-math.random() te genera un numero aleatorio entre cero y uno. un solo numero con muchos decimales
-
-math.random() *10 genera un numero aleatorio entre 0 y 10
-
-
-math.ceil(math.random)*10 aproxima al techo, entre el 1 al 10 (porque 0,1 aproxima a 1)
-
