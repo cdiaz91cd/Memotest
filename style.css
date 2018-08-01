@@ -1,0 +1,90 @@
+body{
+	margin: 0;
+
+}
+
+.memotest{
+	margin: 20px;
+}
+
+.container-principal{
+	margin: 20px;
+	display: flex;
+	background-image: url('hojas.png');
+}
+
+h1{
+	color: white;
+	text-align: center;
+	background-color: #FFC300;
+	font-family: 'Pangolin', cursive;
+	font-size: 40px;
+
+}
+
+button{
+	border-radius: 4px;
+	margin: 30px;
+	height: 50px;
+	text-align: center;
+	border: 2px solid #FFC300;
+	font-family: 'Quicksand', sans-serif;
+	
+
+}
+
+.container-principal2{
+	margin: 50px;
+	display: flex;
+	width: 60%;
+	flex-wrap: wrap;
+	margin: 20px;
+	padding-bottom: 20px;
+
+
+}
+
+.instrucciones{
+	display: block;
+	align-items: center;
+	margin: 30px;
+	width: 40%;
+	background-color: white;
+	padding: 20px;
+
+	
+}
+
+
+img{
+
+	width: 150px;
+	height: 150px;
+	margin: 10px;
+	
+}
+
+
+
+.texto-chico{
+	font-family: 'Quicksand', sans-serif;
+	color: black;
+}
+
+.texto-grande{
+	font-family: 'Pangolin', cursive;
+	font-size: 30px;
+	color: black;
+	margin: 10px;
+	color: #FFC300;
+
+}
+
+
+.text-jugador{
+	font-family: 'Pangolin', cursive;
+	font-size: 35px;
+	color: #FFC300;
+	text-align: center;
+
+}
